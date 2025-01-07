@@ -15,7 +15,8 @@
 
 ---
 ## 기능 설명
-[서버 타임 컨트롤러 설명](/src/main/java/kr/co/greenart/web/util/README.md)
+[서버 타임 컨트롤러 설명](/src/main/java/kr/co/greenart/web/util/)
+<br>
 [스프링부트 어노테이션 설명](https://github.com/green424minee/customerqna/tree/main/src/main/java/kr/co/greenart/web)
 
 <p align="center">
