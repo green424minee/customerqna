@@ -62,6 +62,7 @@
 > [Markdown Github 확장 문법 알아보기](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 > 도표 생성 문법이 어렵다면 생성기를 활용하세요 => [MD Table Generator](https://www.tablesgenerator.com/markdown_tables)
+> 또는 Obsidian과 Advanced Tables(plug-in) 활용
 
 ## How To Use / Development setup
 
