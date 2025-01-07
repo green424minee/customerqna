@@ -62,6 +62,7 @@
 > [Markdown Github 확장 문법 알아보기](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 > 도표 생성 문법이 어렵다면 생성기를 활용하세요 => [MD Table Generator](https://www.tablesgenerator.com/markdown_tables)
+> 
 > 또는 Obsidian과 Advanced Tables(plug-in) 활용
 
 ## How To Use / Development setup
@@ -121,7 +122,7 @@ $ java -cp target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App
 ## Download
 
 * 릴리즈 링크 있으면 첨부 가능
-* [download]() the latest installable version of for Windows, macOS and Linux.
+* [download]() the latest runable version of for Windows, macOS and Linux.
 
 ## ToDo
 
@@ -144,9 +145,10 @@ $ java -cp target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App
     
 ## Authors
 
-* GitHub [@깃허브 프로필 페이지](https://github.com/SYacuCLoud) | Twitter [@SNS 등](https://twitter.com/)
+* 프로필 주소 중 'SYacuCLoud' 부분을 수정하시면 됩니다.
+* GitHub [@깃허브 프로필 페이지](https://github.com/SYacuCLoud) | Twitter [@SNS 등](https://twitter.com/당신의트위터)
 
-> 다음과 같은 profile을 사용하고자 한다면 아래 링크들을 활용해보세요
+> 다음과 같은 profile을 사용하고자 한다면 아래 링크들을 활용해보세요 (프로필 주소 중 'SYacuCLoud' 부분을 수정하시면 됩니다.)
 >
 > [GitHub stats](https://github.com/anuraghazra/github-readme-stats)
 >
